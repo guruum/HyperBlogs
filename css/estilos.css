@@ -1,13 +1,13 @@
 body
 {
     font-family: "Verdana";
-    color: rgb(68, 5, 10);
+    color: black;
     text-align: center;
     margin: 0;
 }
 
 h1{
-    background: blue;
+    background: red;
     text-align: center;
     color: #fff;
     
