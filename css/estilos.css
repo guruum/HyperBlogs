@@ -1,6 +1,6 @@
 body
 {
-    font-family: "Verdana";
+    font-family: "Courier";
     color: black;
     text-align: center;
     margin: 0;
@@ -10,13 +10,20 @@ h1{
     background: red;
     text-align: center;
     color: #fff;
+    font-size: 40px;
+    
+}
+
+.cabecera{
+    color: darkcyan;
     
 }
 
 .main{
-    width: 80%;
+    width: 100%;
     padding: 20px;
     text-align: left;
     margin: 0px;
+    font-size: 16px;
 
 }
