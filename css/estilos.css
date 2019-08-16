@@ -1,7 +1,22 @@
 body
 {
     font-family: "Verdana";
-    color: seagreen;
+    color: rgb(68, 5, 10);
     text-align: center;
     margin: 0;
+}
+
+h1{
+    background: blue;
+    text-align: center;
+    color: #fff;
+    
+}
+
+.main{
+    width: 80%;
+    padding: 20px;
+    text-align: left;
+    margin: 0px;
+
 }
